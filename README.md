@@ -1,11 +1,13 @@
-== Project skeleton for Atmel AVR MCUs with avr-gcc ==
+Project skeleton for Atmel AVR MCUs with avr-gcc
+=================================================
 
 System requirements:
 * avrdude
 * avr-gcc
 * scons
 
-== Usage ==
+Usage
+==========
 
 Edit SConstruct with your AVR MCU model and clock frequency. Change programmer in AVRDUDE_BASE to programmer you use.
 
