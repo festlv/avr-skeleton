@@ -12,7 +12,8 @@ Usage
 Edit SConstruct with your AVR MCU model and clock frequency. Change programmer in AVRDUDE_BASE to programmer you use.
 
 Available programmers:
-`avrdude -c -` 
+`avrdude -c -`
+
 Available AVR part numbers:
 `avrdude -c usbasp -p -`
 
